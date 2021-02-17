@@ -1,5 +1,5 @@
 
-![Welcome](/my_first_deploy_cover_fv.png?raw=true)
+![Welcome](/my_first_deploy_cover.png?raw=true)
 
 # First Deploy Project
 
